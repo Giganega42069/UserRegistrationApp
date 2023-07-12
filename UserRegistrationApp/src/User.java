@@ -1,4 +1,4 @@
-//test SN
+//test SN 2
 public class User {
 	String name;
 	String email;
